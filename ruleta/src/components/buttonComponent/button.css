@@ -1,4 +1,5 @@
-button{
+.numbers{
+    border-radius: 50px;
     background-color: red;
-    width: 100px;
+    width: 50px;
 }
